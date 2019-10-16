@@ -1,0 +1,50 @@
+a {
+    padding-right: 20px;
+}
+
+.carousel-inner &gt;
+.item &gt;
+
+img {
+
+    height: 360px;
+
+    object-fit: contain;
+
+}
+
+.carousel-inner > .item {
+    height: 400px;
+}
+
+.carousel {
+
+    height: 360px;
+
+}
+
+.carousel-item img{
+    height:40%;
+    width:40%;
+}
+
+.show{
+    background-color: black;
+}
+
+.button{
+    margin-right: auto;
+    width: 20%;
+}
+
+.carousel-indicators{
+    bottom:-300px;
+}
+
+.carousel-control-prev{
+    height: 100%;
+}
+
+.carousel-control-next{
+    height: 100%;
+}
