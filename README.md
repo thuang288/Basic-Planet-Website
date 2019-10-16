@@ -1,5 +1,5 @@
-# Basic-Website
-Basic website for a school assignment
+# Basic-Website (In Progress)
+Basic website for a school assignment using HTML and Bootstrap
 
 How to see site
 1. Clone repository
