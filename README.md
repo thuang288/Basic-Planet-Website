@@ -1,4 +1,6 @@
 # Basic-Website
 Basic website for a school assignment
 
-Main.html is the front page
+How to see site
+1. Clone repository
+2. Open Main.html
